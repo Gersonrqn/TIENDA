@@ -1,0 +1,36 @@
+{
+  "Cliente": {
+    "ID1": {
+      "Apellido": "Arevalo",
+      "Correo": "xavierxol@gmail.com",
+      "Direccion": "Boquicar",
+      "Nombre": "Xavier",
+      "Telefono": "2569-4520"
+    },
+    "ID2": {
+      "Apellido": "Pop",
+      "Correo": "nerypop@gmail.com",
+      "Direccion": "San Francisco",
+      "Nombre": "Nery",
+      "Telefono": "4521-1250"
+    },
+    "ID·": {
+      "Apellido": "Chen",
+      "Correo": "edixol@gmail.com",
+      "Nombre": "Edi",
+      "Telefono": "1452-1205",
+      "direccion": "San Pablo"
+    }
+  },
+  "Cliente-Evento": {
+    "idCliente": "",
+    "idEvento": "",
+    "idevento": ""
+  },
+  "Evento": {
+    "Descripcion": "En espera",
+    "Nombre": "Michael",
+    "Precio": 15,
+    "idEvento": ""
+  }
+}
