@@ -1,0 +1,54 @@
+{
+  "tbClientes": {
+    "Campos": {
+      "Corre Electronico ": "johanymena@gmial.com",
+      "Direccion": "Barrio Chibujbu",
+      "IdCliente": 1,
+      "Nombre": "Johany Mena",
+      "Telefono": "2561-1422"
+    }
+  },
+  "tbDetallesOrden": {
+    "Campos": {
+      "Cantidad": 1,
+      "Precio Unitario": 50,
+      "idDetalle": 6,
+      "idOrden": 4,
+      "idProducto": 3
+    }
+  },
+  "tbFacturas": {
+    "Campos": {
+      "Fecha": "2023-11-15",
+      "Total": 250,
+      "idFactura": 5,
+      "idorden": 4
+    }
+  },
+  "tbOrdenes": {
+    "Campos": {
+      "Fecha": "2023-11-14",
+      "Total": 250,
+      "idCliente": 1,
+      "idOrden": 5
+    }
+  },
+  "tbProductos": {
+    "Campos": {
+      "Descripcion": "chocolate relleno de vainilla",
+      "Nombre": "Chocolate Versace",
+      "Precio": 250,
+      "Stock": 25,
+      "idProducto": 3
+    }
+  },
+  "tbProveedores": {
+    "Campos": {
+      "Correo Electronico ": "versacecompany@gmail.com",
+      "Direccion": "Guatemala",
+      "Nombre": "Versace",
+      "Telefono": "1254-1256",
+      "idProveedor": 2
+    }
+  }
+}
