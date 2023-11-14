@@ -1,0 +1,42 @@
+{
+  "Clientes": {
+    "Correo Electronico ": "johanymena@gmail.com",
+    "Direccion": "Barrio Chibujbu",
+    "Nombre": "Johany Mena",
+    "Telefono": "2545-1256",
+    "idCliente": 2
+  },
+  "DetallesOrden": {
+    "Cantidad ": 15,
+    "Precio Unitario": 50,
+    "idOrden": 5,
+    "idProducto": 3,
+    "iddetalle": 6
+  },
+  "Facturas": {
+    "Fecha": "2023-11-14",
+    "Total": 250,
+    "idFactura": 4,
+    "idOrden": 5
+  },
+  "Ordenes": {
+    "Fecha": "2023-11-14",
+    "Total": 250,
+    "idCliente": 2,
+    "idOrden": 5
+  },
+  "Productos": {
+    "Descripcion": "Chocolate relleno de vainilla ",
+    "Nombre": "Chocolate Versace",
+    "Precio": 250,
+    "Stock": 25,
+    "idProducto": 3
+  },
+  "Proveedores": {
+    "Correo Electronico": "sabritasdiana@gmail.com",
+    "Direccion": "Guatemala",
+    "Nombre": "Diana",
+    "Telefono": "3685-1452",
+    "idProveedor": 1
+  }
+}
